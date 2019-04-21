@@ -29,6 +29,9 @@
 QQ:
 
 
+付费群:[640642921](http://qm.qq.com/cgi-bin/qm/qr?k=-Zc_HsVIdCWsidPSihAC2zlOPgaERHsH)
+
+
 一群：647922611
 
 
