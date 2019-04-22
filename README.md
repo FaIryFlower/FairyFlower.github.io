@@ -23,10 +23,10 @@
 
 **异次元app获取地点**
 
-（1）公众号:异次元app软件
+1.公众号:异次元app软件
 
 
-（2）QQ群:
+2.QQ群:
 
 
 付费群：[640642921](http://qm.qq.com/cgi-bin/qm/qr?k=-Zc_HsVIdCWsidPSihAC2zlOPgaERHsH)
