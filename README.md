@@ -1,6 +1,5 @@
 <img src="./软件图片/source.jpg">
 
-- **github地址** [sheng6364/sheng6364.github.io](https://github.com/sheng6364/sheng6364.github.io)
 # 异次元简介
 
 >如今的漫画app由于各大平台买断等原因，总是出现某些漫画看不了，手机上需要下载三四个漫画app才能满足的情况，于是可自由添加图源的免费聚合漫画app来啦!你不用再担心找不到想看的漫画！找不到漫画？自己动手做个图源！
