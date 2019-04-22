@@ -1,6 +1,3 @@
-style="text_align:center;"
-
-
 <img src="./软件图片/source.jpg">
 
 ## 异次元简介
