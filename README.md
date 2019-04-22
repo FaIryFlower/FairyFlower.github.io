@@ -1,6 +1,4 @@
-html标签，
-
-<center>你的标题</center>
+html标签，<center>你的标题</center>
 
 <img src="./软件图片/source.jpg">
 
