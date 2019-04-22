@@ -1,4 +1,4 @@
-html标签，<center>你的标题</center>
+<center><h1>这里可以加粗</h1></center>
 
 <img src="./软件图片/source.jpg">
 
