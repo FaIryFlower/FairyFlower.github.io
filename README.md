@@ -18,32 +18,32 @@
 >可对漫画进行下载缓存，方便无网络时观看
 >
 >更多功能正在开发完善中。。。
->
+
 ---
 
 # 异次元app获取地点
 
-1.公众号:异次元app软件
+### 公众号:异次元app软件
 
 
-2.QQ群:
+### QQ群:
 
 
-付费群：[640642921](http://qm.qq.com/cgi-bin/qm/qr?k=-Zc_HsVIdCWsidPSihAC2zlOPgaERHsH)
+>付费群：[640642921](http://qm.qq.com/cgi-bin/qm/qr?k=-Zc_HsVIdCWsidPSihAC2zlOPgaERHsH)
 享受不被踢感觉!!!
-
-
-一群：[647922611](http://qm.qq.com/cgi-bin/qm/qr?k=mTJNcgCTs1gwe7hPN791S4k0gRnv4eY-)
-
-
-二群：[959441950](http://qm.qq.com/cgi-bin/qm/qr?k=nOi8NLsHKzvacaJTbYd9_5_YnVEm4Ba3)
-
-
-三群：[146039004](http://qm.qq.com/cgi-bin/qm/qr?k=szcg5QOxMAOTEg3BN4eWkOoZCez0_ngP)
-
-
-四群：[1002699263](http://qm.qq.com/cgi-bin/qm/qr?k=ObITPKZs9HeTLNP4T1rtSWdXGMxb1lsd)
-
+>
+>
+>一群：[647922611](http://qm.qq.com/cgi-bin/qm/qr?k=mTJNcgCTs1gwe7hPN791S4k0gRnv4eY-)
+>
+>
+>二群：[959441950](http://qm.qq.com/cgi-bin/qm/qr?k=nOi8NLsHKzvacaJTbYd9_5_YnVEm4Ba3)
+>
+>
+>三群：[146039004](http://qm.qq.com/cgi-bin/qm/qr?k=szcg5QOxMAOTEg3BN4eWkOoZCez0_ngP)
+>
+>
+>四群：[1002699263](http://qm.qq.com/cgi-bin/qm/qr?k=ObITPKZs9HeTLNP4T1rtSWdXGMxb1lsd)
+>
 ---
 
 # 图源列表
