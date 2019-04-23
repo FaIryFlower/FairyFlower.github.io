@@ -1,7 +1,4 @@
-
-- <p align = "中心" > <img src = " . /软件图片/ source.jpg”> < / p>
-
-
+<img src = " . /软件图片/ source.jpg”>
 
 ## 异次元简介
 
