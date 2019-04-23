@@ -1,4 +1,4 @@
-<p align = "中心" ><center><h1>这里可以加粗</h1></center></p>
+<p align = "中心" > <center><h1>这里可以加粗</h1></center> </p>
 
 <img src="./软件图片/source.jpg">
 
