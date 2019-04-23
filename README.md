@@ -1,4 +1,4 @@
-< h2对齐= "中心" >异次元简介< h2 >
+<p align = "中心" > 
 
 <img src="./软件图片/source.jpg">
 
