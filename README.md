@@ -1,4 +1,4 @@
-<center>文字居中</center>
+<center><文字居中></center>
 
 
 <img src="./软件图片/source.jpg">
