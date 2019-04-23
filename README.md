@@ -1,4 +1,4 @@
-<p align = "中心" >菜花小网站</p>
+<p align = "中心" ><菜花小网站></p>
 
 <img src="./软件图片/source.jpg">
 
