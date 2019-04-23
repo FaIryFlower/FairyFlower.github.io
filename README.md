@@ -1,4 +1,4 @@
-<center><h1>这里可以加粗</h1></center>
+<center><h1>< h2对齐= "中心" >异次元简介< h2 ></h1></center>
 
 <img src="./软件图片/source.jpg">
 
