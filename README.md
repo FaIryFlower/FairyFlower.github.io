@@ -62,7 +62,6 @@
 
 - [基础教程](./导入教程/异次元基础教程.txt)
 
-- [赞赏](https://fairyflower.github.io/)
 
 
 
