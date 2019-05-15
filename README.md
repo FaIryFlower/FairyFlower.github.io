@@ -68,3 +68,4 @@
 ## 赞赏方式
 
 - [支付宝赞赏](https://qr.alipay.com/fkx062850dfrjdgwviaunbe)
+- [测试](alipays://platformapi/startapp?appId=20000067&url=https%3A%2F%2Fqr.alipay.com%2Ffkx062850dfrjdgwviaunbe)
