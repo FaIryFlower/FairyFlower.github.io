@@ -64,3 +64,7 @@
 
 ## 娱乐软件
 - [MY轰炸机](MY轰炸机.apk)
+
+## 赞赏方式
+
+- [支付宝赞赏](https://qr.alipay.com/fkx062850dfrjdgwviaunbe)
