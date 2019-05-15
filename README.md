@@ -62,6 +62,5 @@
 
 - [基础教程](./导入教程/异次元基础教程.txt)
 
-- [轰炸](https://FairyFlower.github.io/raw/master/MY%E8%BD%B0%E7%82%B8%E6%9C%BA.apk)
-
+## 娱乐软件
 - [MY轰炸机](MY轰炸机.apk)
