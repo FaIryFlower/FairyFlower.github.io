@@ -68,4 +68,3 @@
 ## 赞赏方式
 
 - [支付宝赞赏](https://qr.alipay.com/fkx062850dfrjdgwviaunbe)
-- [支付红包](637807319)
