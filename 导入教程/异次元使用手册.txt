@@ -70,9 +70,9 @@
 　　      Ⅳ右上角“粘贴图源";
 　　      Ⅴ右上角“√"。
 　　
-        ③尝试更换网络后/科学上网后再重新尝试以上　　　　　　 导入操作。
+      ③尝试更换网络后/科学上网后再重新尝试以上导入操作。
 　　
-         ④若提示 Attempt to invoke virtual method ' int java. lang String length()' on a null object reference，请关闭广告拦截软件
+      ④若提示 Attempt to invoke virtual method ' int java. lang String length()' on a null object reference，请关闭广告拦截软件
 
 ⑸找不到想看的漫画
 　　①调整搜索线程以加快搜索速度
