@@ -48,7 +48,7 @@
 
 - [1.24大整合源](大整合更新啦新年快乐哈.txt)
 - [1.24稳定整合](1.24稳定整合更新.txt)
-- [例子] (https://cdn.jsdelivr.net/gh/FaIryFlower/FairyFlower.github.io@master/%E5%9B%BE%E7%AB%99%E6%BA%90%E6%9B%B4%E6%96%B0/345763.json)
+- [例子](https://cdn.jsdelivr.net/gh/FaIryFlower/FairyFlower.github.io@master/%E5%9B%BE%E7%AB%99%E6%BA%90%E6%9B%B4%E6%96%B0/345763.json)
 
 ## 个别更新
 
