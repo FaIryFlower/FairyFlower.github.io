@@ -44,11 +44,23 @@
 四群：[1002699263](http://qm.qq.com/cgi-bin/qm/qr?k=ObITPKZs9HeTLNP4T1rtSWdXGMxb1lsd)
 
 
+五群：[483552782](https://qm.qq.com/cgi-bin/qm/qr?k=uf0BOF7sDMy9yVeues1wjCSzXNEH4iLU&authKey=riP+o4szHZmPffdSyglPTaTAf52kowct+gUk7wdyN5F5J4GwupVwS2C1Id2uZtBC&noverify=0)
+
+
+六群：[727957973](https://qm.qq.com/cgi-bin/qm/qr?k=vWS8BwRaZll_WQHK9I4xPGvbo1IcKMTH&authKey=NK4VlEuCr5h0YggA8IN/RU6JFHsypfdDOAEGterTy6pZ/Zvyc+WHXKrVRPsCBKmE&noverify=0)
+
+
+七群：[146039004](https://qm.qq.com/cgi-bin/qm/qr?k=J1vqajYJah5gUfQYvCpYpZwlHym17rcG&authKey=+H7aztKS+xrkUx/C6C8kgW4td4Yx1btkUAJXX9uqVZmsDn99/QVR/wlapaefiZsu&noverify=0)
+
+
+八群：[1002699263](https://qm.qq.com/cgi-bin/qm/qr?k=bvNW7gfZwh_mEUkkoWTc6BqChCCotrwy&authKey=yqNxh7Pk0SgUbT0w7Q3v4v/SCCCCy7vmTfqOZgwvHSGF+uyPHm27r7/mA/+mxC3f&noverify=0)
+
+
 ## 图源列表
 
 - [1.24大整合源](大整合更新啦新年快乐哈.txt)
 - [1.24稳定整合](1.24稳定整合更新.txt)
-- [例子](https://cdn.jsdelivr.net/gh/FaIryFlower/FairyFlower.github.io@master/%E5%9B%BE%E7%AB%99%E6%BA%90%E6%9B%B4%E6%96%B0/345763.json)
+
 
 ## 个别更新
 
